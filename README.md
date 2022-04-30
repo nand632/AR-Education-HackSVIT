@@ -9,6 +9,7 @@ APK Link : https://drive.google.com/file/d/1-Mb9vzpde2T_nFEexX0sEfSYPTmE8s37/vie
 
 Presentation Link : https://www.canva.com/design/DAE_Rg9W7wA/_ZWrt1rP7IzDxvj0ShQ5dg/view?utm_content=DAE_Rg9W7wA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
+Scan the PDF and Explore the AR experience : [ARCards Images PDF.pdf](https://github.com/nand632/AR-Education-HackSVIT/files/8597994/ARCards.Images.PDF.pdf)
 
 
 Technologies we used:
