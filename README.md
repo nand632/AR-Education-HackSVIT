@@ -7,6 +7,10 @@ Augmented Reality is a totally new and astonishing platform for amateur develope
  
 APK Link : https://drive.google.com/file/d/1-Mb9vzpde2T_nFEexX0sEfSYPTmE8s37/view?usp=sharing
 
+Presentation Link : https://www.canva.com/design/DAE_Rg9W7wA/_ZWrt1rP7IzDxvj0ShQ5dg/view?utm_content=DAE_Rg9W7wA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+
+
 Technologies we used:
 * Unity
 * Augmented Reality
